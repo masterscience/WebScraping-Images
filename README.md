@@ -10,7 +10,7 @@ La actividad se realizó de manera individual por Edita Caceli Talledo Flores
 
 ## DOI Zenodo
 
-10.5281/zenodo.5652156
+10.5281 / zenodo.5652156
 
 ## Referencias
 
